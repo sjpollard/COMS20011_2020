@@ -21,7 +21,8 @@ Follow instructions in:
 [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
 
 ## Starting a Notebook on the lab machines:
-'''
+Open a terminal, and enter:
+```
 /opt/anaconda3-4.4.0/bin/jupyter notebook
-'''
+```
 Jupyter should automatically open a webpage. If not, open your favourite web browser and go to: localhost:8888/notebooks.
