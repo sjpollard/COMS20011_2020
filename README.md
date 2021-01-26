@@ -2,7 +2,7 @@
 Data-driven Computer Science UoB
 
 ## Staff
-- [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) [laurence.aitchison@bristol.ac.uk](unit director)
+- [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) [laurence.aitchison@bristol.ac.uk] (unit director)
 - [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid/) [m.mirmehdi@bristol.ac.uk] 
 
 ## Teach Assistants
