@@ -3,9 +3,9 @@ Data-driven Computer Science UoB
 
 ## Staff
 - [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) [laurence.aitchison@bristol.ac.uk] (unit director)
-- [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid/) [m.mirmehdi@bristol.ac.uk] 
+- [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid/) [m.mirmehdi@bristol.ac.uk]
 
-## Teach Assistants
+## Teaching Assistants
 Holly Milllea | Amirhossein Dadashzadeh | Faegheh Sardari | Jonathan Munro | Vangelis Kazakos | Zhaozhen Xu
 
 ## Structure
@@ -28,16 +28,6 @@ Data Acquisition & Pre-processing
 | ------ | ---- | --- |
 | 1. Intro to COMS20111 - very fishy | [[Stream link]](https://web.microsoftstream.com/video/ac0feac5-3cce-4126-abd3-4238f43b7a84) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM01.pdf) |
 | 2. Intro - Part 2 - example projects | [[Stream link]](https://web.microsoftstream.com/video/cd65111b-9d1e-45db-ad21-d01198d9aafd) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM02.pdf) |
-| 3. Data Acquisition - Sampling - Acquisition  |  [[Stream link]]( ) | [[pdf]]( ) |
-| 4. Data Characteristics - Distance Measures  | [[Stream link]]( ) | [[pdf]]( ) |
-| 5. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[Stream link]]( ) | [[pdf]]( ) |
-
-
-
-
-
-
-
-
-
-
+| 3. Data Acquisition - Sampling - Acquisition  |  [[Stream link]](N/A ) | [[pdf]]( ) |
+| 4. Data Characteristics - Distance Measures  | [[Stream link]](N/A ) | [[pdf]]( ) |
+| 5. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[Stream link]](N/A) | [[pdf]]( ) |
