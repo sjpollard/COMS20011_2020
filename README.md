@@ -6,7 +6,7 @@ Data-driven Computer Science UoB
 - [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid/) [m.mirmehdi@bristol.ac.uk] 
 
 ## Teach Assistants
-Holly Milllea | Amirhossein Dadashzadeh | Faegheh Sardari | Jonathan Munro | Vangelis Kazakos | Xinyu Yang | Zhaozhen Xu
+Holly Milllea | Amirhossein Dadashzadeh | Faegheh Sardari | Jonathan Munro | Vangelis Kazakos | Zhaozhen Xu
 
 ## Structure
 Lecture videos for a week will be released on Monday and posted here.  Please take a look at them promptly!
@@ -20,10 +20,24 @@ There are lecturer-led Q&A sessions on Mondays at 4pm.  The first of these (Feb 
 There will be "lab" exercises released in the "lab" folder.  Please do them promptly and bring any questions to the TA-led sessions: the coursework is heavily based on the labs!
 
 # Weekly lecture material #
-#### Week 1: 5/10/2020 (Cian)
+#### Week 13: 01/02/2021 (Majid)
 
-*Background on brains.*
+Data Acquisition & Pre-processing
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
-| 1. Example | [[Stream link]](https://web.microsoftstream.com/video/7a8d) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/raw/master/week_1/video1_overview.pdf) |
+| 1. Intro to COMS20111 - very fishy [[Stream link]](https://web.microsoftstream.com/video/ac0feac5-3cce-4126-abd3-4238f43b7a84) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/slides/COMS20011-MM01.pdf) |
+| 2. Intro - Part 2 - example projects [[Stream link]](https://web.microsoftstream.com/video/cd65111b-9d1e-45db-ad21-d01198d9aafd) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/slides/COMS20011-MM02.pdf) |
+| 3. Data Acquisition - Sampling - Acquisition -  [[Stream link]]( ) | [[pdf]]( ) |
+| 4. Data Characteristics - Distance Measures -  [[Stream link]]( ) | [[pdf]]( ) |
+| 5. Data Characteristics - Covariance - Eigen Analysis - Outliers [[Stream link]]( ) | [[pdf]]( ) |
+
+
+
+
+
+
+
+
+
+
