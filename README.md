@@ -26,10 +26,10 @@ Data Acquisition & Pre-processing
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
-| 1. Intro to COMS20111 - very fishy | [[Stream link]](https://web.microsoftstream.com/video/ac0feac5-3cce-4126-abd3-4238f43b7a84) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/slides/COMS20011-MM01.pdf) |
-| 2. Intro - Part 2 - example projects | [[Stream link]](https://web.microsoftstream.com/video/cd65111b-9d1e-45db-ad21-d01198d9aafd) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/slides/COMS20011-MM02.pdf) |
-| 3. Data Acquisition - Sampling - Acquisition - |  [[Stream link]]( ) | [[pdf]]( ) |
-| 4. Data Characteristics - Distance Measures - | [[Stream link]]( ) | [[pdf]]( ) |
+| 1. Intro to COMS20111 - very fishy | [[Stream link]](https://web.microsoftstream.com/video/ac0feac5-3cce-4126-abd3-4238f43b7a84) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM01.pdf) |
+| 2. Intro - Part 2 - example projects | [[Stream link]](https://web.microsoftstream.com/video/cd65111b-9d1e-45db-ad21-d01198d9aafd) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM02.pdf) |
+| 3. Data Acquisition - Sampling - Acquisition  |  [[Stream link]]( ) | [[pdf]]( ) |
+| 4. Data Characteristics - Distance Measures  | [[Stream link]]( ) | [[pdf]]( ) |
 | 5. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[Stream link]]( ) | [[pdf]]( ) |
 
 
