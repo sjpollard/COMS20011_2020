@@ -12,6 +12,18 @@ There are two basic options: remotely logging in to a lab machine or locally ins
 ```
 ssh -X -J youruserid@seis.bris.ac.uk youruserid@rd-mvb-linuxlab.bristol.ac.uk
 ```
+## SSH Port forwarding for Option 2.
+This option will remove latency issues from graphical interface of option 2.
+
+Instead of rendering Jupyter Notebook on the lab machines, you can render it on a browser of your local machine. This will remove most latency issues. To do this you need to forward the port used by Juyper Notebook to a port on your local machine.
+
+Steps below show how to map ports using ssh and to render jupyter notebook on your local machine
+
+1. map a port on your machine to a free port on the lab machines (e.g. 7373)
+       ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.ac.uk
+2. Run jupyter notebook on the specified port 7373
+      ```/opt/anaconda3-4.4.0/bin/jupyter notebook --no-browser --port 7373```
+3. open localhost:6006 in a web browser on your local machine.
 
 ## Locally installing Anaconda
 
