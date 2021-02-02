@@ -6,12 +6,30 @@ There are two basic options: remotely logging in to a lab machine or locally ins
 
 ## Remote access to MVB machines
 
-* Option 1 - First, follow these instructions to set up the [VPN](https://uob.sharepoint.com/sites/itservices/SitePages/vpn-connect.aspx). Then, follow these guidelines provided by IT Services to set up a [Linux Remote Desktop](https://uob.sharepoint.com/sites/itservices/SitePages/fits-engineering-linux-x2go.aspx)
+#### Option 1 (Linux Remote Desktop; Windows/Linux/Mac)
+First, follow these instructions to set up the [VPN](https://uob.sharepoint.com/sites/itservices/SitePages/vpn-connect.aspx). Then, follow these guidelines provided by IT Services to set up a [Linux Remote Desktop](https://uob.sharepoint.com/sites/itservices/SitePages/fits-engineering-linux-x2go.aspx)
 
-* Option 2 (advanced) - If you are running an X server already (i.e. because you're running Linux locally), then open a shell on your machine, and type this command: 
+#### Option 2 (X Remote Desktop; Linux)
+If you are running an X server already (i.e. because you're running Linux locally), then open a shell on your machine, and type this command: 
 ```
 ssh -X -J youruserid@seis.bris.ac.uk youruserid@rd-mvb-linuxlab.bristol.ac.uk
 ```
+#### Option 3 (SSH Port forwarding; Linux/Mac)
+This option will remove latency issues from the graphical interface of option 2.
+
+This allows you to open Jupyter Notebook in a browser on your local machine while still running it on a lab machine.
+
+1. Map a free port on your machine (e.g. 6006) to a free port on the lab machine (e.g. 7373)
+```
+ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.ac.uk
+```
+       
+2. Run Jupyter Notebook on the port mapped to your local machine: 7373
+```
+/opt/anaconda3-4.4.0/bin/jupyter notebook --no-browser --port 7373
+```
+      
+3. Open localhost:6006 in a web browser on your local machine and enter the token provided by Jupyter Notebook.
 
 ## Locally installing Anaconda
 
