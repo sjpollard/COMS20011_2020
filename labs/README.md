@@ -14,6 +14,8 @@ If you are running an X server already (i.e. because you're running Linux locall
 ```
 ssh -X -J youruserid@seis.bris.ac.uk youruserid@rd-mvb-linuxlab.bristol.ac.uk
 ```
+This method will not work on Windows Linux Subsystem (WSL), you can use Option 3 in WSL, or Option 1 in Windows, instead.
+
 #### Option 3 (SSH Port forwarding; Linux/Mac)
 This option will remove latency issues from the graphical interface of option 2.
 
