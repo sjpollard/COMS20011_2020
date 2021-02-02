@@ -12,7 +12,7 @@ There are two basic options: remotely logging in to a lab machine or locally ins
 ```
 ssh -X -J youruserid@seis.bris.ac.uk youruserid@rd-mvb-linuxlab.bristol.ac.uk
 ```
-## SSH Port forwarding for Option 2.
+## SSH Port forwarding for Option 2
 This option will remove latency issues from the graphical interface of option 2.
 
 Instead of rendering Jupyter Notebook on the lab machines, you can render it on a browser of your local machine. This will remove most latency issues. To do this you need to forward the port used by Juypter Notebook to a port on your local machine.
