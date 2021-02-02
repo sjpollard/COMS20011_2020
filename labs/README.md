@@ -12,6 +12,22 @@ There are two basic options: remotely logging in to a lab machine or locally ins
 ```
 ssh -X -J youruserid@seis.bris.ac.uk youruserid@rd-mvb-linuxlab.bristol.ac.uk
 ```
+## SSH Port forwarding for Option 2
+This option will remove latency issues from the graphical interface of option 2.
+
+This allows you to open Jupyter Notebook in a browser on your local machine while still running it on a lab machine.
+
+1. Map a free port on your machine (e.g. 6006) to a free port on the lab machine (e.g. 7373)
+```
+ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.ac.uk
+```
+       
+2. Run Jupyter Notebook on the port mapped to your local machine: 7373
+```
+/opt/anaconda3-4.4.0/bin/jupyter notebook --no-browser --port 7373
+```
+      
+3. Open localhost:6006 in a web browser on your local machine and enter the token provided by Jupyter Notebook.
 
 ## Locally installing Anaconda
 
