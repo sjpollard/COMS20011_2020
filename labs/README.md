@@ -22,7 +22,7 @@ This allows you to open Jupyter Notebook in a browser on your local machine whil
 ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.ac.uk
 ```
        
-2. Run jupyter notebook on the port mapped to your local machine: 7373
+2. Run Jupyter Notebook on the port mapped to your local machine: 7373
 ```
 /opt/anaconda3-4.4.0/bin/jupyter notebook --no-browser --port 7373
 ```
