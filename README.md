@@ -32,3 +32,8 @@ Data Acquisition & Pre-processing
 | 4. Data Characteristics - Distance Measures  | [[Stream link]](https://web.microsoftstream.com/video/5ca552a0-e474-4dcb-b638-ea01e3e41d8f) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM04.pdf) |
 | 5. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[Stream link]](https://web.microsoftstream.com/video/7c423f3b-6aff-4b44-a1b7-5305c662c81b) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM05.pdf) |
 | Problem Sheet 1 | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet01.pdf) |
+
+#### (Week 1): 01/02/2021 (Laurence)
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Maximum likelihood for a coin| [[Stream link]](https://web.microsoftstream.com/video/868f7bb6-8df7-4384-8cfa-b43ee0e9805c) | [[notebook 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_likelihood.ipynb) |
