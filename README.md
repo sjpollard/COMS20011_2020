@@ -38,3 +38,6 @@ Data Acquisition & Pre-processing
 | ------ | ---- | --- |
 | 1. Maximum likelihood for a coin| [[Stream link]](https://web.microsoftstream.com/video/868f7bb6-8df7-4384-8cfa-b43ee0e9805c) | [[notebook 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_likelihood.ipynb) |
 | 2. Bayes for a coin| [[Stream link]](https://web.microsoftstream.com/video/13ff0152-1b6a-46f7-89ad-b5b3d0163183) | [[notebook 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_likelihood.ipynb) |
+| 3. Intro to supervised learning| [[Stream link]](https://web.microsoftstream.com/video/98a601f3-ad02-4ac0-95c8-ff2d324806c1) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.ipynb) |
+
+
