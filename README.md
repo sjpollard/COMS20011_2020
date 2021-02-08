@@ -32,6 +32,10 @@ Data Acquisition & Pre-processing
 | 4. Data Characteristics - Distance Measures  | [[Stream link]](https://web.microsoftstream.com/video/5ca552a0-e474-4dcb-b638-ea01e3e41d8f) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM04.pdf) |
 | 5. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[Stream link]](https://web.microsoftstream.com/video/7c423f3b-6aff-4b44-a1b7-5305c662c81b) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM05.pdf) |
 | Problem Sheet 1 | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet01.pdf) |
+| Problem Sheet 1 | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet01-Answers.pdf) | Q&A Session  | [[Stream link]](https://web.microsoftstream.com/video/fe4adfe4-4369-4321-9547-64bcd85a0dfb) | [-] |
+
+
+
 
 #### (Week 14): 08/02/2021 (Laurence)
 | Lecture | video | slides |
@@ -40,5 +44,3 @@ Data Acquisition & Pre-processing
 | 2. Bayes for a coin| [[Stream link]](https://web.microsoftstream.com/video/13ff0152-1b6a-46f7-89ad-b5b3d0163183) | [[notebook 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_likelihood.ipynb) |
 | 3. Intro to supervised learning| [[Stream link]](https://web.microsoftstream.com/video/98a601f3-ad02-4ac0-95c8-ff2d324806c1) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.ipynb) |
 | 4. Linear regression derivation| [[Stream link]](https://web.microsoftstream.com/video/4ed022e8-3d33-4cdd-b952-efe57f74941a) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.ipynb) |
-
-
