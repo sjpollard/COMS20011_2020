@@ -33,7 +33,7 @@ Data Acquisition & Pre-processing
 | 5. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[Stream link]](https://web.microsoftstream.com/video/7c423f3b-6aff-4b44-a1b7-5305c662c81b) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM05.pdf) |
 | Problem Sheet 1 | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet01.pdf) |
 | Problem Sheet 1 | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet01-Answers.pdf) |
-| Q&A Session  | [[Stream link]](https://web.microsoftstream.com/video/fe4adfe4-4369-4321-9547-64bcd85a0dfb) |  |
+| Q&A Session  | [[Stream link]](https://web.microsoftstream.com/video/fe4adfe4-4369-4321-9547-64bcd85a0dfb) | - |
 
 
 
