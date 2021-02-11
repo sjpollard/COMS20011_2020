@@ -46,3 +46,19 @@ Open a terminal, and enter:
 /opt/anaconda3-4.4.0/bin/jupyter notebook
 ```
 Jupyter should automatically open a webpage. If not, open your favourite web browser and go to: localhost:8888/notebooks.
+
+## Clone Lab sheet to Lab Machine
+This allows you to clone the lab sheet to lab machine using terminal.
+
+1. Open the terminal in the Linux remote desktop, or through `ssh` (option 3) from your local machine.
+
+2. Clone the lab repository from Github to your lab machine.
+```
+git clone https://github.com/LaurenceA/COMS20011_2020.git
+```
+3. Pull the repository each time before the lab to get the latest updates of the repository.
+```
+cd COMS20011_2020
+git pull
+```
+
