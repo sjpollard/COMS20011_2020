@@ -47,18 +47,18 @@ Open a terminal, and enter:
 ```
 Jupyter should automatically open a webpage. If not, open your favourite web browser and go to: localhost:8888/notebooks.
 
-## Download Labsheet to Lab Machine
-This allows you to copy the lab sheet to your lab machine without a Linux remote desktop.
+## Clone Lab sheet to Lab Machine
+This allows you to clone the lab sheet to lab machine using terminal.
 
-1. Download the lab repository from Github to your local machine.
+1. Open the terminal in the Linux remote desktop, or through `ssh` (option 3).
 
-2. Copy lab sheet from your machine to lab machine using ssh in the terminal.
+2. Clone the lab repository from Github to your lab machine.
 ```
-cd directory_to_your_git/COMS20011_2020/labs
-scp -r lab_1 user@rd-mvb-linuxlab.bristol.ac.uk:/home/user
+git clone https://github.com/LaurenceA/COMS20011_2020.git
 ```
-This will copy the lab_1 folder to the home directory of your lab machine. And you can access it with Jupyter Notebook.
-
-**Note:** For students who set up a Linux remote desktop, download the lab files as you did on your local machine. Then open the notebook (labsheet.ipynb) using Jupyter Notebook.
-
+3. Pull the repository each time before the lab to get the latest updates of the repository.
+```
+cd COMS20011_2020
+git pull
+```
 
