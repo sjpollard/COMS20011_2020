@@ -50,7 +50,7 @@ Jupyter should automatically open a webpage. If not, open your favourite web bro
 ## Clone Lab sheet to Lab Machine
 This allows you to clone the lab sheet to lab machine using terminal.
 
-1. Open the terminal in the Linux remote desktop, or through `ssh` (option 3).
+1. Open the terminal in the Linux remote desktop, or through `ssh` (option 3) from your local machine.
 
 2. Clone the lab repository from Github to your lab machine.
 ```
