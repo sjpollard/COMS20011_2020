@@ -46,3 +46,19 @@ Open a terminal, and enter:
 /opt/anaconda3-4.4.0/bin/jupyter notebook
 ```
 Jupyter should automatically open a webpage. If not, open your favourite web browser and go to: localhost:8888/notebooks.
+
+## Download Labsheet to Lab Machine
+This allows you to copy the lab sheet to your lab machine without a Linux remote desktop.
+
+1. Download the lab repository from Github to your local machine.
+
+2. Copy lab sheet from your machine to lab machine using ssh in the terminal.
+```
+cd directory_to_your_git/COMS20011_2020/labs
+scp -r lab_1 user@rd-mvb-linuxlab.bristol.ac.uk:/home/user
+```
+This will copy the lab_1 folder to the home directory of your lab machine. And you can access it with Jupyter Notebook.
+
+**Note:** For students who set up a Linux remote desktop, download the lab files as you did on your local machine. Then open the notebook (labsheet.ipynb) using Jupyter Notebook.
+
+
