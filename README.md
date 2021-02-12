@@ -31,7 +31,7 @@ Data Acquisition & Pre-processing
 | 3. Data Acquisition - Sampling - Acquisition  |  [[Stream link]](https://web.microsoftstream.com/video/23599d61-e2dd-4d25-ae33-c93ccf8ddc3e) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM03.pdf) |
 | 4. Data Characteristics - Distance Measures  | [[Stream link]](https://web.microsoftstream.com/video/5ca552a0-e474-4dcb-b638-ea01e3e41d8f) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM04.pdf) |
 | 5. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[Stream link]](https://web.microsoftstream.com/video/7c423f3b-6aff-4b44-a1b7-5305c662c81b) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM05.pdf) |
-| Problem Sheet 1 **Updated - New Q 12/02/21** | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet01.pdf) |
+| Problem Sheet 1 <div class="text-red mb-2"> **Updated - New Q 12/02/21** </div> | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet01.pdf) |
 | Problem Sheet 1 **Updated - New Q/A 12/02/21** | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet01-Answers.pdf) |
 | Q&A Session  | [[Stream link]](https://web.microsoftstream.com/video/fe4adfe4-4369-4321-9547-64bcd85a0dfb) | - |
 
