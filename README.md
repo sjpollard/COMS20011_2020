@@ -51,3 +51,5 @@ Data Acquisition & Pre-processing
 | ------ | ---- | --- |
 | 1. Linear regression examples| [[Stream link]](https://web.microsoftstream.com/video/7e2731c4-42c1-4aaa-a8e5-d3b1839efd2f) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.ipynb) |
 | 2. Overfitting| [[Stream link]](https://web.microsoftstream.com/video/42b2572a-c9c4-4e9c-9545-4c5448ba3df7) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.ipynb) |
+| 3. Cross-validation| [[Stream link]](https://web.microsoftstream.com/video/3e3966f2-4155-482c-9928-2dc6b8a35e88) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.ipynb) |
+
