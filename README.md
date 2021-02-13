@@ -47,7 +47,7 @@ Data Acquisition & Pre-processing
 | 4. Linear regression derivation| [[Stream link]](https://web.microsoftstream.com/video/4ed022e8-3d33-4cdd-b952-efe57f74941a) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.ipynb) |
 | Problem Sheet W14 | | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_problem_sheet_noanswers.pdf) |
 
-#### (Week 15): 08/02/2021 (Laurence)
+#### (Week 15): 14/02/2021 (Laurence)
 | Lecture | video | slides |
 | ------ | ---- | --- |
 | 1. Linear regression examples| [[Stream link]](https://web.microsoftstream.com/video/7e2731c4-42c1-4aaa-a8e5-d3b1839efd2f) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.ipynb) |
