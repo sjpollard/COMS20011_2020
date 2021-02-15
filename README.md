@@ -57,3 +57,9 @@ Data Acquisition & Pre-processing
 | 4. Regularisation| [[Stream link]](https://web.microsoftstream.com/video/ede335db-e4b3-40f9-9a32-db48ce7b112d) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.ipynb) |
 | Problem Sheet W15 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_1_regression_noanswers.ipynb) |
 
+#### Notebook pdfs
+I have printed the Notebooks as pdfs.  Note that this really doesn't work well, as many of the interactive plots can't be printed.
+| Notebook |
+| [[notebook 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_likelihood.pdf) |
+| [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.pdf) |
+| [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_overfitting.pdf) |
