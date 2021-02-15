@@ -60,6 +60,7 @@ Data Acquisition & Pre-processing
 #### Notebook pdfs
 I have printed the Notebooks as pdfs.  Note that this really doesn't work well, as many of the interactive plots can't be printed.
 | Notebook |
+| -------- |
 | [[notebook 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_likelihood.pdf) |
 | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.pdf) |
 | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_overfitting.pdf) |
