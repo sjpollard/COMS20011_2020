@@ -38,6 +38,7 @@ jupyter labextension install jupyter-matplotlib
 You should install pytorch in a new conda environment.
 
 ```bash
+
 # Load anaconda
 module load anaconda3-4.4.0-x86_64
 
@@ -47,5 +48,4 @@ source activate notebooks
 
 # Install pytorch
 conda install pytorch cpuonly -c pytorch
-
 ```
