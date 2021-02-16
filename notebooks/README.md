@@ -33,7 +33,7 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install jupyter-matplotlib
 ```
 
-<h2> Installing Pytorch on the labmachines
+<h2> Installing Pytorch on the labmachines </h2>
   
 You should install pytorch in a new conda environment.
 
