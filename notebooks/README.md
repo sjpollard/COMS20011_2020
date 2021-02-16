@@ -32,3 +32,20 @@ conda install nodejs
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install jupyter-matplotlib
 ```
+
+<h2> Installing Pytorch on the labmachines
+  
+You should install pytorch in a new conda environment.
+
+```bash
+# Load anaconda
+module load anaconda3-4.4.0-x86_64
+
+# Create new environment and activate
+conda create -n notebooks
+source activate notebooks
+
+# Install pytorch
+conda install pytorch cpuonly -c pytorch
+
+```
