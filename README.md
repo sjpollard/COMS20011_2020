@@ -61,7 +61,8 @@ Data Acquisition & Pre-processing
 | Lecture | video | slides |
 | ------ | ---- | --- |
 | 1. Logits parameterisation| [[Stream link]](https://web.microsoftstream.com/video/1a83f72a-bc2d-498a-beef-31fa2f963b09) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
-| 1. Gradient descent + overfitting| [[Stream link]](https://web.microsoftstream.com/video/67fbcff2-d688-443f-bf14-597fb73c1076) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
+| 2. Gradient descent + overfitting| [[Stream link]](https://web.microsoftstream.com/video/67fbcff2-d688-443f-bf14-597fb73c1076) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
+| 1. KNN/WNN and nearest centroids| [[Stream link]](https://web.microsoftstream.com/video/5766e6dc-d2da-48f9-90eb-cd123f09897e) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
 
 #### Notebook pdfs
 I have printed the Notebooks as pdfs.  Note that this really doesn't work well, as many of the interactive plots can't be printed.
