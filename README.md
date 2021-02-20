@@ -62,7 +62,8 @@ Data Acquisition & Pre-processing
 | ------ | ---- | --- |
 | 1. Logits parameterisation| [[Stream link]](https://web.microsoftstream.com/video/1a83f72a-bc2d-498a-beef-31fa2f963b09) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
 | 2. Gradient descent + overfitting| [[Stream link]](https://web.microsoftstream.com/video/67fbcff2-d688-443f-bf14-597fb73c1076) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
-| 1. KNN/WNN and nearest centroids| [[Stream link]](https://web.microsoftstream.com/video/5766e6dc-d2da-48f9-90eb-cd123f09897e) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
+| 3. KNN/WNN and nearest centroids| [[Stream link]](https://web.microsoftstream.com/video/5766e6dc-d2da-48f9-90eb-cd123f09897e) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
+| 4. Bayesian classification| [[Stream link]](https://web.microsoftstream.com/video/577a17a7-8eff-4d7f-981f-8528a29048fb) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
 
 #### Notebook pdfs
 I have printed the Notebooks as pdfs.  Note that this really doesn't work well, as many of the interactive plots can't be printed.
@@ -70,4 +71,4 @@ I have printed the Notebooks as pdfs.  Note that this really doesn't work well, 
 | -------- |
 | [[notebook 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_likelihood.pdf) |
 | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_2_regression.pdf) |
-| [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_1_overfitting.pdf) |
+| [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.pdf) |
