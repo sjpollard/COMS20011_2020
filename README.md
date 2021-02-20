@@ -57,6 +57,12 @@ Data Acquisition & Pre-processing
 | 4. Regularisation| [[Stream link]](https://web.microsoftstream.com/video/ede335db-e4b3-40f9-9a32-db48ce7b112d) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.ipynb) |
 | Problem Sheet W15 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_1_regression_noanswers.ipynb) |
 
+#### (Week 16): 14/02/2021 (Laurence)
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Logits parameterisation| [[Stream link]](https://web.microsoftstream.com/video/1a83f72a-bc2d-498a-beef-31fa2f963b09) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
+| 1. Gradient descent + overfitting| [[Stream link]](https://web.microsoftstream.com/video/67fbcff2-d688-443f-bf14-597fb73c1076) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
+
 #### Notebook pdfs
 I have printed the Notebooks as pdfs.  Note that this really doesn't work well, as many of the interactive plots can't be printed.
 | Notebook |
