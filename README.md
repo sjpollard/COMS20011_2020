@@ -56,6 +56,7 @@ Data Acquisition & Pre-processing
 | 3. Cross-validation| [[Stream link]](https://web.microsoftstream.com/video/3e3966f2-4155-482c-9928-2dc6b8a35e88) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.ipynb) |
 | 4. Regularisation| [[Stream link]](https://web.microsoftstream.com/video/ede335db-e4b3-40f9-9a32-db48ce7b112d) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.ipynb) |
 | Problem Sheet W15 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_1_regression_noanswers.ipynb) |
+| Q&A Session  | [[Stream link]](https://web.microsoftstream.com/video/c90fe9b8-dde1-408a-b994-7d0b3adfab1f) | - |
 
 #### (Week 16): 14/02/2021 (Laurence)
 | Lecture | video | slides |
