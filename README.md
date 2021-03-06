@@ -91,6 +91,9 @@ Data Acquisition & Pre-processing
 | Lecture | video | slides |
 | ------ | ---- | --- |
 | 1. Clustering vs classification| [[Stream link]](https://web.microsoftstream.com/video/451391d5-7b60-45e1-931d-3f06934c2d31) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
+| 2. K-means clustering| [[Stream link]](https://web.microsoftstream.com/video/9e0a1ca1-81ca-4b8a-b6dc-0e881a8fccc4) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
+| 3. EM for Gaussian mixture models| [[Stream link]](https://web.microsoftstream.com/video/0c8216e8-bdd3-4f3e-b713-29021e7ec950) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
+
 
 
 
