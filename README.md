@@ -19,7 +19,27 @@ There are lecturer-led Q&A sessions on Mondays at 4pm.  The first of these (Feb 
 
 There will be "lab" exercises released in the "lab" folder.  Please do them promptly and bring any questions to the TA-led sessions: the coursework is heavily based on the labs!
 
-# Weekly lecture material #
+## Mathematical background material
+Important: these are not pre-requisites!  Please don't try to look at all of the material!  They're intended as supplements to the first-year maths courses to help clear up specific issues with the derivations in the course.  Feel free to raise an issue/pull-request if you have recommendations for other resources.
+
+#### Probability and statistics
+  * A Modern Introduction to Probability and Statistics, Understanding Why and How (Dekking et al.)
+  * [[MIT OpenCourseWare]](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
+  * [[Khan Academy]](https://www.khanacademy.org/math/statistics-probability) (from Probability)
+
+#### Calculus:
+  * [[MIT OpenCourseWare]](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
+  * [[Khan Academy]](https://www.khanacademy.org/math/calculus-1)
+
+#### Linear Algebra:
+  * Linear Algebra for Everyone (Gilbert Strang)
+  * [[Khan Academy]](https://www.khanacademy.org/math/linear-algebra)
+
+#### All of the above
+  * [[Mathematics for Machine Learning]](https://mml-book.github.io/book/mml-book.pdf)
+
+
+## Weekly lecture material
 #### Week 13: 01/02/2021 (Majid)
 
 Data Acquisition & Pre-processing
@@ -56,6 +76,7 @@ Data Acquisition & Pre-processing
 | 3. Cross-validation| [[Stream link]](https://web.microsoftstream.com/video/3e3966f2-4155-482c-9928-2dc6b8a35e88) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.ipynb) |
 | 4. Regularisation| [[Stream link]](https://web.microsoftstream.com/video/ede335db-e4b3-40f9-9a32-db48ce7b112d) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_3_overfitting.ipynb) |
 | Problem Sheet W15 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_1_regression_noanswers.ipynb) |
+| Q&A Session  | [[Stream link]](https://web.microsoftstream.com/video/c90fe9b8-dde1-408a-b994-7d0b3adfab1f) | - |
 
 #### (Week 16): 14/02/2021 (Laurence)
 | Lecture | video | slides |
@@ -65,6 +86,15 @@ Data Acquisition & Pre-processing
 | 3. KNN/WNN and nearest centroids| [[Stream link]](https://web.microsoftstream.com/video/5766e6dc-d2da-48f9-90eb-cd123f09897e) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
 | 4. Bayesian classification| [[Stream link]](https://web.microsoftstream.com/video/577a17a7-8eff-4d7f-981f-8528a29048fb) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
 | Problem Sheet W16 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_2_classification.ipynb) |
+
+#### (Week 18): 8/03/2021 (Laurence)
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Clustering vs classification| [[Stream link]](https://web.microsoftstream.com/video/451391d5-7b60-45e1-931d-3f06934c2d31) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
+| 2. K-means clustering| [[Stream link]](https://web.microsoftstream.com/video/9e0a1ca1-81ca-4b8a-b6dc-0e881a8fccc4) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
+| 3. EM for Gaussian mixture models| [[Stream link]](https://web.microsoftstream.com/video/0c8216e8-bdd3-4f3e-b713-29021e7ec950) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
+| 4. Objective for EM [Non-examinable]| [[Stream link]](https://web.microsoftstream.com/video/2816e646-b599-4593-b679-d60bb6d1f47b) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
+
 
 
 #### Notebook pdfs
