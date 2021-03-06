@@ -66,5 +66,6 @@ git pull
 |---------------|------------------|
 |[[Labsheet 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_1/labsheet1.ipynb) | [[Answers 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_1/labsheet1_answers.ipynb) |
 |[[Labsheet 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_2/labsheet2.ipynb) | [[Answers 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_2/labsheet2_answers.ipynb) |
-|[[Labsheet 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_3/labsheet3.ipynb) |
+|[[Labsheet 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_3/labsheet3.ipynb) | [[Answers 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_3/labsheet3_answers.ipynb)|
+|[[Labsheet 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_4/labsheet4.ipynb) |
 
